@@ -1,0 +1,27 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon-like storefront using MySQL ",
+  "main": "bamazoncustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mallen2018/bamazon.git"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "Melissa Allen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mallen2018/bamazon/issues"
+  },
+  "homepage": "https://github.com/mallen2018/bamazon#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^6.1.0",
+    "mysql": "^2.16.0"
+  }
+}
